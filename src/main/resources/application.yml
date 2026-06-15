@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: learning-platform
+    
+  datasource:
+    url: 
+    name: muku
+    password: root
